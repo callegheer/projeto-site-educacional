@@ -1,3 +1,3 @@
 # Projeto da proz do site educacional
 
-qualquer coisa
+Arquivos relacionados ao projeto do curso.
